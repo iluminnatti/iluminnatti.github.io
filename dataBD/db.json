@@ -2,7 +2,7 @@
     "novidades": [
       {
         "nome": "God of War - PC",
-        "preço": 199.99,
+        "preço": "199.99",
         "capa": "https://www.mmsgames.com.br/imagem/index/29795622/G/god_of_war_2018_capa.png",
         "trailer": "https://youtu.be/FyIwEFXOcaE",
         "wallpaper": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/ax0V5TYMax06mLzmkWeQMiwH.jpg?w=440",
@@ -18,7 +18,7 @@
       },
       {
         "nome": "Far Cry 6",
-        "preço": 269.90,
+        "preço": "269.90",
         "capa": "https://1.bp.blogspot.com/-w-ephsdAGrY/YMURrcMBDmI/AAAAAAAACI0/7tXL8bM8Su8J-g7wEAtBmR_k1KpmwXzKwCLcBGAsYHQ/s1024/WYVJ53XEnXHLsD9wIoTiO8uB.webp",
         "trailer": "https://youtu.be/yzCZyJSGub4",
         "wallpaper": "https://www.psu.com/wp/wp-content/uploads/2020/10/Far-Cry-6-PS5-Wallpapers-03-1.jpg",
@@ -34,7 +34,7 @@
       },
       {
         "nome": "Elden Ring - PS5",
-        "preço": 299.99,
+        "preço": "299.99",
         "capa": "https://i2.wp.com/overplay.com.br/wp-content/uploads/2020/12/elden-ring.png?resize=555%2C555&ssl=1",
         "trailer": "https://youtu.be/E3Huy2cdih0",
         "wallpaper": "https://d2ofqe7l47306o.cloudfront.net/games/1366x768/elden-ring-22.jpg",
@@ -50,7 +50,7 @@
       },
       {
         "nome": "Marvel’s Guardians Of The Galaxy - PS5",
-        "preço": 251.99,
+        "preço": "251.99",
         "capa": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Guardians_of_the_Galaxy_jogo_capa.jpg",
         "trailer": "https://youtu.be/NCP9g8cjp-o",
         "wallpaper": "https://wallpapercave.com/wp/wp9545827.jpg",
@@ -66,7 +66,7 @@
       },
       {
         "nome": "Battlefield 2042",
-        "preço": 189.00,
+        "preço": "189.00",
         "capa": "https://cdn6.campograndenews.com.br/uploads/noticias/2021/06/09/29ciw1s4y4pww.jpg",
         "trailer": "https://youtu.be/ASzOzrB-a9E",
         "wallpaper": "https://pbs.twimg.com/media/E3tFPMGX0AML4O5.jpg",
@@ -82,7 +82,7 @@
       },
       {
         "nome": "Horizon Forbidden West",
-        "preço": 246.50,
+        "preço": "246.50",
         "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/ki0STHGAkIF06Q4AU8Ow4OkV.png",
         "trailer": "https://youtu.be/Lq594XmpPBg",
         "wallpaper": "https://preview.redd.it/mbxsnoqtn3l71.jpg?width=3840&format=pjpg&auto=webp&s=8d9e62d26af45cdea339eab12abb68ff004dd728",
@@ -98,7 +98,7 @@
       },
       {
         "nome": "Gran Turismo Sport 7 Edição 25º Aniversário",
-        "preço": 378.40,
+        "preço": "378.40",
         "capa": "https://bdjogos.com.br/capas/7508-gran-turismo-7-playstation-5-capa-1.jpg",
         "trailer": "https://youtu.be/1tBUsXIkG1A",
         "wallpaper": "https://meups.com.br/wp-content/uploads/2021/09/Gran-Turismo-7-5.jpg",
@@ -116,7 +116,7 @@
     "destaques": [
       {
         "nome": "Red Dead Redemption - XBOX ONE Version",
-        "preço": 145.00,
+        "preço": "145.00",
         "capa": "https://i1.wp.com/nerdtatuado.com.br/wp-content/uploads/2019/10/Red-Dead-Redemption-2-observatorio-de-games.jpg",
         "trailer": "https://youtu.be/eaW0tYpxyp0",
         "wallpaper": "https://s1.1zoom.me/big3/444/Red_Dead_Redemption_2_Horses_584159_3840x2160.jpg",
@@ -136,7 +136,7 @@
       },
       {
         "nome": "Marvel's Spider Man: Miles Morales - Edição Ultimate PS5",
-        "preço": 204.90,
+        "preço": "204.90",
         "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
         "trailer": "https://youtu.be/qjRzm9A7DU4",
         "wallpaper": "https://images.hdqwalls.com/wallpapers/marvels-spiderman-miles-morales-4k-2020-jz.jpg",
@@ -156,7 +156,7 @@
       },
       {
         "nome": "Demon's Souls Remake - PS5",
-        "preço": 238.00,
+        "preço": "238.00",
         "capa": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2020/12/demon-s-souls-remake.jpg",
         "trailer": "https://youtu.be/JiqGi3GMTko",
         "wallpaper": "https://mocah.org/uploads/posts/342179-Demon-Souls-Demons-Souls-Video-Game-Tower-Knight-PS5-PlayStation.jpg",
@@ -176,7 +176,7 @@
       },
       {
         "nome": "Street Fighter V - Champion Edition PS4",
-        "preço": 118.90,
+        "preço": "118.90",
         "capa": "https://nerdtatuado.com.br/wp-content/uploads/2019/11/Street-Fighter-V-Champion-Edition-Capa-1.jpg",
         "trailer": "https://youtu.be/0nFd7Iylj5A",
         "wallpaper": "https://images.hdqwalls.com/wallpapers/street-fighter-v-warrior-70.jpg",
@@ -196,7 +196,7 @@
       },
       {
         "nome": "Devil May Cry V - XBOX ONE Edition",
-        "preço": 119.00,
+        "preço": "119.00",
         "capa": "https://img.ibxk.com.br/2018/06/14/devil-may-cry-5-14173929735296.jpg",
         "trailer": "https://youtu.be/dG6_CAdiLPM",
         "wallpaper": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaj6W-YJ3prawGySoei6MPNdc6vtjOv-3V4Q&usqp=CAU",
@@ -216,7 +216,7 @@
       },
       {
         "nome": "Dark Souls III The Fire Fades - Edição Completa - PS4",
-        "preço": 129.99,
+        "preço": "129.99",
         "capa": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_616x353.jpg?t=1638193506",
         "trailer": "https://youtu.be/cWBwFhUv1-8",
         "wallpaper": "https://a-static.besthdwallpaper.com/dark-souls-iii-cavaleiro-do-fogo-papel-de-parede-1920x1080-24417_48.jpg",
@@ -236,7 +236,7 @@
       },
       {
         "nome": "Call of Duty: Black Ops Cold War - PS5",
-        "preço": 499.90,
+        "preço": "499.90",
         "capa": "https://s2.glbimg.com/Kc1WwP8XVspfbgPRuzadGP9q8EA=/0x0:2048x1149/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/0/u/wSfOwbQzAAfcYHf7gvXg/call-duty-cold-war-capa.jpg",
         "trailer": "https://youtu.be/aTS9n_m7TW0",
         "wallpaper": "https://wallpaperaccess.com/full/4647892.jpg",
@@ -256,7 +256,7 @@
       },
       {
         "nome": "Minecraft Starter Collection - PS4",
-        "preço": 248.90,
+        "preço": "248.90",
         "capa": "https://xboxplay.games/imagenes/redimensionar2.php?imagen=https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/amp_blog_image_large/public/blog/csm-blog/parentsultimateguide-minecraft-blog.jpg&an=722&al=400",
         "trailer": "https://youtu.be/vdrn4ouZRvQ",
         "wallpaper": "https://staticg.sportskeeda.com/editor/2021/10/a35d6-16345674356074-1920.jpg",

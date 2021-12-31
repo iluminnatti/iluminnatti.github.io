@@ -1,0 +1,278 @@
+  {
+    "novidades": [
+      {
+        "nome": "God of War - PC",
+        "preço": 199.99,
+        "capa": "https://www.mmsgames.com.br/imagem/index/29795622/G/god_of_war_2018_capa.png",
+        "trailer": "https://youtu.be/FyIwEFXOcaE",
+        "wallpaper": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/ax0V5TYMax06mLzmkWeQMiwH.jpg?w=440",
+        "slider": {
+          "img1": "https://www.psu.com/wp/wp-content/uploads/2019/01/god-of-war-boss-battles-1024x576.jpg",
+          "img2": "https://www.dualshockers.com/static/uploads/2021/10/god-of-war-ragnarok-watermark-screenshot-08-en-08sep21.jpg",
+          "img3": "https://blog.playstation.com/tachyon/2021/10/767a91b868d887d9c4da9d6b4adfaf715ce47101-scaled.jpg"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "SCE Santa Monica", "plataforma": "PC", "formato": "Digital", "genero": "Ação, Aventura", "lançamento": "14 Janeiro de 2022"
+        }
+      },
+      {
+        "nome": "Far Cry 6",
+        "preço": 269.90,
+        "capa": "https://1.bp.blogspot.com/-w-ephsdAGrY/YMURrcMBDmI/AAAAAAAACI0/7tXL8bM8Su8J-g7wEAtBmR_k1KpmwXzKwCLcBGAsYHQ/s1024/WYVJ53XEnXHLsD9wIoTiO8uB.webp",
+        "trailer": "https://youtu.be/yzCZyJSGub4",
+        "wallpaper": "https://www.psu.com/wp/wp-content/uploads/2020/10/Far-Cry-6-PS5-Wallpapers-03-1.jpg",
+        "slider": {
+          "img1": "https://s2.glbimg.com/-qpnPeqCPTe09_QieVuNlUc4CCE=/0x0:3840x2160/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/J/R/3xyoJ7QZe1ya2TaoTLZw/far-cry-r-6-20211005161842.jpg",
+          "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qa-FUtd4b8UauRJbHw8w1BQqnunNWchgAw&usqp=CAU",
+          "img3": "https://media.distractify.com/brand-img/RtQUStkMU/0x0/fary-cry-6-yara-1633641972391.jpg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Ubisoft", "plataforma": "PS4/PS5/XBOX ONE/XBOX SERIES X", "formato": "Blu-ray", "genero": "First Person Shooter (FPS)", "lançamento": "7 outubro 2021"
+        }
+      },
+      {
+        "nome": "Elden Ring - PS5",
+        "preço": 299.99,
+        "capa": "https://i2.wp.com/overplay.com.br/wp-content/uploads/2020/12/elden-ring.png?resize=555%2C555&ssl=1",
+        "trailer": "https://youtu.be/E3Huy2cdih0",
+        "wallpaper": "https://d2ofqe7l47306o.cloudfront.net/games/1366x768/elden-ring-22.jpg",
+        "slider": {
+          "img1": "https://gtprogamer.com.br/wp-content/uploads/2021/06/safe_image-1.jpg",
+          "img2": "https://adrenaline.com.br/uploads/chamadas/elden-ring-novos-gameplay.jpg",
+          "img3": "https://www.acusticafm.com.br/images/noticias/img_46866_foto_1_f.jpg"
+        },
+        "estrelas": 0,
+        "detalhes": {
+          "produtora": "Bandai Namco", "plataforma": "PS5", "formato": "Blu-ray", "genero": "Ação, RPG", "lançamento": "25 Fevereiro 2022"
+        }
+      },
+      {
+        "nome": "Marvel’s Guardians Of The Galaxy - PS5",
+        "preço": 251.99,
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Guardians_of_the_Galaxy_jogo_capa.jpg",
+        "trailer": "https://youtu.be/NCP9g8cjp-o",
+        "wallpaper": "https://wallpapercave.com/wp/wp9545827.jpg",
+        "slider": {
+          "img1": "https://www.videogamer.com/wp-content/uploads/MGG_2021_09_22_SCR_14_WITHLOGO_EN.jpg",
+          "img2": "https://i.ytimg.com/vi/YDflZh86HR0/maxresdefault.jpg",
+          "img3": "https://img.game-news24.com/2021/10/Marvel-Guardians-Of-The-Galaxy-Highlights-Combat-And-Boss-Battle-In-Gameplay-Footage.jpeg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Square Enix", "plataforma": "PS5", "formato": "Blu-ray", "genero": "Ação, Aventura", "lançamento": "26 Outubro 2021"
+        }
+      },
+      {
+        "nome": "Battlefield 2042",
+        "preço": 189.00,
+        "capa": "https://cdn6.campograndenews.com.br/uploads/noticias/2021/06/09/29ciw1s4y4pww.jpg",
+        "trailer": "https://youtu.be/ASzOzrB-a9E",
+        "wallpaper": "https://pbs.twimg.com/media/E3tFPMGX0AML4O5.jpg",
+        "slider": {
+          "img1": "https://img.game-news24.com/2021/10/Gameplay-Trailer-for-Battlefield-2042-Takes-a-Deep-Look-At-Three-New-Maps.jpeg",
+          "img2": "https://cdn.mos.cms.futurecdn.net/62ryjABuyifaRQnsbKhhGD.jpg",
+          "img3": "https://s2.glbimg.com/Vr0S4u-3CaErVopxO6GVKOYU2xk=/0x0:3840x2160/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/W/j/IcGi3xSneqEBZFQBfPNg/revealscreenshot-07-extra02-3840x2160-nologo.png"
+        },
+        "estrelas": 3,
+        "detalhes": {
+          "produtora": "EA Games", "plataforma": "PS4/PS5/XBOX ONE/XBOX SERIES X", "formato": "Blu-ray", "genero": "Ação, First Person Shooter", "lançamento": "19 Novembro 2021"
+        }
+      },
+      {
+        "nome": "Horizon Forbidden West",
+        "preço": 246.50,
+        "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/ki0STHGAkIF06Q4AU8Ow4OkV.png",
+        "trailer": "https://youtu.be/Lq594XmpPBg",
+        "wallpaper": "https://preview.redd.it/mbxsnoqtn3l71.jpg?width=3840&format=pjpg&auto=webp&s=8d9e62d26af45cdea339eab12abb68ff004dd728",
+        "slider": {
+          "img1": "https://files.tecnoblog.net/wp-content/uploads/2021/05/horizon-forbidden-west-gameplay-700x394.jpeg",
+          "img2": "https://images.squarespace-cdn.com/content/v1/58b3cae5d1758e0132a008c6/1622199813823-6JM1JRFAUFCBTO6PL0L7/HFW-thumbnail.jpg",
+          "img3": "https://meups.com.br/wp-content/uploads/2021/12/serpente-gigantes-de-Horizon-Forbidden-West-intimida-Aloy.jpg"
+        },
+        "estrelas": 0,
+        "detalhes": {
+          "produtora": "Sony", "plataforma": "PS4/PS5", "formato": "Blu-ray", "genero": "Ação, Aventura", "lançamento": "18 Fevereiro 2022"
+        }
+      },
+      {
+        "nome": "Gran Turismo Sport 7 Edição 25º Aniversário",
+        "preço": 378.40,
+        "capa": "https://bdjogos.com.br/capas/7508-gran-turismo-7-playstation-5-capa-1.jpg",
+        "trailer": "https://youtu.be/1tBUsXIkG1A",
+        "wallpaper": "https://meups.com.br/wp-content/uploads/2021/09/Gran-Turismo-7-5.jpg",
+        "slider": {
+          "img1": "https://gmedia.playstation.com/is/image/SIEPDC/gran-turismo-7-screenshot-01-disclaimer-en-01oct20?$native$",
+          "img2": "https://clubedovideogame.com.br/wp-content/uploads/2021/12/Captura-de-tela-2021-12-06-093637.jpg",
+          "img3": "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-09-23-44/gran-turismo-7-recebe-trailer-gameplay-e-data-de-lancamento-1631227440167.jpg/EG11/resize/1200x-1/gran-turismo-7-recebe-trailer-gameplay-e-data-de-lancamento-1631227440167.jpg"
+        },
+        "estrelas": 0,
+        "detalhes": {
+          "produtora": "Playstation", "plataforma": "PS4/PS5", "formato": "Blu-ray", "genero": "Corrida, Simulação", "lançamento": "4 Março 2022"
+        }
+      }
+    ],
+    "destaques": [
+      {
+        "nome": "Red Dead Redemption - XBOX ONE Version",
+        "preço": 145.00,
+        "capa": "https://i1.wp.com/nerdtatuado.com.br/wp-content/uploads/2019/10/Red-Dead-Redemption-2-observatorio-de-games.jpg",
+        "trailer": "https://youtu.be/eaW0tYpxyp0",
+        "wallpaper": "https://s1.1zoom.me/big3/444/Red_Dead_Redemption_2_Horses_584159_3840x2160.jpg",
+        "slider": {
+          "img1": "https://assets.vg247.com/current//2018/10/red_dead_redemption_2_dead_eye-600x338.jpg",
+          "img2": "https://conteudo.imguol.com.br/c/entretenimento/28/2018/09/24/red-dead-redemption-2-1537821529375_v2_450x253.jpg",
+          "img3": "https://twinfinite.net/wp-content/uploads/2018/10/red-dead-redemption-2-2.jpg"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "Rockstar", "plataforma": "XBOX ONE", "formato": "Blu-Ray", "genero": "Third Person Shooter, Ação", "lançamento": "27 Setemebro 2018"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "shooter", "mundo aberto"
+        ]
+      },
+      {
+        "nome": "Marvel's Spider Man: Miles Morales - Edição Ultimate PS5",
+        "preço": 204.90,
+        "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg",
+        "trailer": "https://youtu.be/qjRzm9A7DU4",
+        "wallpaper": "https://images.hdqwalls.com/wallpapers/marvels-spiderman-miles-morales-4k-2020-jz.jpg",
+        "slider": {
+          "img1": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2020/11/legiao_n4qZYvaRAuwm.jpg.jpeg",
+          "img2": "https://i0.wp.com/rubberchickengames.com/wp-content/uploads/2020/11/MSMMM_Review_Camo___This_asset_is_under_embargo_until_November_6th_5AM_PT_495115fa193bb6cbb99.24994790.jpg?resize=1170%2C658&ssl=1",
+          "img3": "https://images.firstpost.com/wp-content/uploads/2020/11/Marvels-Spider-Man_-Miles-Morales_20201104172721_opt.jpg"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "Insomniac", "plataforma": "PS5", "formato": "Blu-Ray", "genero": "Ação, Aventura", "lançamento": "19 Novembro 2020"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "aventura", "mundo aberto"
+        ]
+      },
+      {
+        "nome": "Demon's Souls Remake - PS5",
+        "preço": 238.00,
+        "capa": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2020/12/demon-s-souls-remake.jpg",
+        "trailer": "https://youtu.be/JiqGi3GMTko",
+        "wallpaper": "https://mocah.org/uploads/posts/342179-Demon-Souls-Demons-Souls-Video-Game-Tower-Knight-PS5-PlayStation.jpg",
+        "slider": {
+          "img1": "https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_demons_souls_2020_03_2560x1080.jpg&height=506&sharpen",
+          "img2": "https://images.pushsquare.com/8f4640bf797ad/demons-souls-ps5.large.jpg",
+          "img3": "https://cdna.artstation.com/p/assets/images/images/032/260/948/large/adam-rehmann-arehmann-cutscenes-maidenlulling-02.jpg?1605908804"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "FromSoftware", "plataforma": "PS5", "formato": "Blu-Ray", "genero": "Ação, Aventura, RPG", "lançamento": "19 Novembro 2020"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "aventura", "mundo aberto", "souslike", "rpg"
+        ]
+      },
+      {
+        "nome": "Street Fighter V - Champion Edition PS4",
+        "preço": 118.90,
+        "capa": "https://nerdtatuado.com.br/wp-content/uploads/2019/11/Street-Fighter-V-Champion-Edition-Capa-1.jpg",
+        "trailer": "https://youtu.be/0nFd7Iylj5A",
+        "wallpaper": "https://images.hdqwalls.com/wallpapers/street-fighter-v-warrior-70.jpg",
+        "slider": {
+          "img1": "https://i.ytimg.com/vi/3cLziv7VAYo/maxresdefault.jpg",
+          "img2": "http://cdn.espn.com.br/image/wide/622_1de928cf-6a4f-420a-b759-0176c145be44.jpg",
+          "img3": "https://assets.vg247.com/current//2017/12/street-fighter-5-arcade-2.jpg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Capcom", "plataforma": "PS4", "formato": "Blu-Ray", "genero": "Ação, Luta", "lançamento": "14 Fevereiro 2019"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "luta", "multiplayer"
+        ]
+      },
+      {
+        "nome": "Devil May Cry V - XBOX ONE Edition",
+        "preço": 119.00,
+        "capa": "https://img.ibxk.com.br/2018/06/14/devil-may-cry-5-14173929735296.jpg",
+        "trailer": "https://youtu.be/dG6_CAdiLPM",
+        "wallpaper": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaj6W-YJ3prawGySoei6MPNdc6vtjOv-3V4Q&usqp=CAU",
+        "slider": {
+          "img1": "https://www.gannett-cdn.com/presto/2019/03/06/PREN/aa287f1c-8737-4d99-bbd6-12f8d585999d-CameoSystem_01_png_jpgcopy.jpg",
+          "img2": "https://static.wikia.nocookie.net/devilmaycry/images/1/13/V%27sFamiliars.jpg/revision/latest?cb=20190323041453",
+          "img3": "https://assets.nuuvem.com/image/upload/t_screenshot_full/v1/products/5bedb74c881024168b2d9778/screenshots/o8trbtwfavr7hod4av87.jpg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Capcom", "plataforma": "XBOX ONE", "formato": "Blu-Ray", "genero": "Ação, Beat-em up", "lançamento": "13 Março 2019"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "beat-em up", "hack n'slash"
+        ]
+      },
+      {
+        "nome": "Dark Souls III The Fire Fades - Edição Completa - PS4",
+        "preço": 129.99,
+        "capa": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_616x353.jpg?t=1638193506",
+        "trailer": "https://youtu.be/cWBwFhUv1-8",
+        "wallpaper": "https://a-static.besthdwallpaper.com/dark-souls-iii-cavaleiro-do-fogo-papel-de-parede-1920x1080-24417_48.jpg",
+        "slider": {
+          "img1": "https://www.pcgamesn.com/wp-content/uploads/legacy/dark_souls_3_battle_royale-1200x675.jpg",
+          "img2": "https://assets1.ignimgs.com/thumbs/userUploaded/2017/3/27/doorweapon-1490646317905.jpg",
+          "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiljqySvYekgu-7FQwGHh6QbLZz_rqBPdZKhaTNXAJWVRwK4f8WLLNku2Xh7uqvNgOHCM&usqp=CAU"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "FromSoftware", "plataforma": "PS4", "formato": "Blu-Ray", "genero": "Ação, RPG", "lançamento": "22 Junho 2018"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "luta", "RPG de ação", "mundo aberto","souslike"
+        ]
+      },
+      {
+        "nome": "Call of Duty: Black Ops Cold War - PS5",
+        "preço": 499.90,
+        "capa": "https://s2.glbimg.com/Kc1WwP8XVspfbgPRuzadGP9q8EA=/0x0:2048x1149/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/0/u/wSfOwbQzAAfcYHf7gvXg/call-duty-cold-war-capa.jpg",
+        "trailer": "https://youtu.be/aTS9n_m7TW0",
+        "wallpaper": "https://wallpaperaccess.com/full/4647892.jpg",
+        "slider": {
+          "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkS1WTjD_oQegYDwC7b_F_rJX4NF322S1GEg&usqp=CAU",
+          "img2": "https://asset.vg247.com/call-of-duty-black-ops-cold-war-zombies-easter-egg-1.jpg/BROK/thumbnail/1600x900/quality/100/call-of-duty-black-ops-cold-war-zombies-easter-egg-1.jpg",
+          "img3": "https://www.upcomer.com/wp-content/uploads/2020/11/BOCW-1.jpg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Activision", "plataforma": "PS5", "formato": "Blu-Ray", "genero": "Ação, First Person Shooter (FPS)", "lançamento": "13 Novembro 2020"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "ação", "mídia física", "tiro", "multiplayer", "fps", "shooter"
+        ]
+      },
+      {
+        "nome": "Minecraft Starter Collection - PS4",
+        "preço": 248.90,
+        "capa": "https://xboxplay.games/imagenes/redimensionar2.php?imagen=https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/amp_blog_image_large/public/blog/csm-blog/parentsultimateguide-minecraft-blog.jpg&an=722&al=400",
+        "trailer": "https://youtu.be/vdrn4ouZRvQ",
+        "wallpaper": "https://staticg.sportskeeda.com/editor/2021/10/a35d6-16345674356074-1920.jpg",
+        "slider": {
+          "img1": "https://staticg.sportskeeda.com/editor/2021/11/abb08-16382142903266-1920.jpg",
+          "img2": "https://wallpaperaccess.com/full/6352672.jpg",
+          "img3": "https://i.pinimg.com/originals/32/df/db/32dfdb8b5657be2faf6b0e1c0c63f847.jpg"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "Mojang/Microsoft", "plataforma": "PS4", "formato": "Blu-Ray", "genero": "Aventura, Sobrevivência", "lançamento": "10 Dezembro 2018"
+        },
+        "href": "#",
+        "categorias": [
+          "game", "aventura", "mídia física", "mundo aberto", "multiplayer", "exploração", "sobrevivência", "simulação"
+        ]
+      }
+    ]
+  }
